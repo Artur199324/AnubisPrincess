@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Anubis Princess</string>
+    <string name="st1">Guess where the prize is hidden! get a bonus and go to the super game</string>
+    <string name="st2">You didn\'t guess</string>
+    <string name="st3">Congratulations !!! you are in super game</string>
+    <string name="st4">You lost the super game</string>
+    <string name="l1">Loading</string>
+    <string name="l2">Loading.</string>
+    <string name="l3">Loading..</string>
+    <string name="l4">Loading...</string>
+    <string name="l5">Loading....</string>
+    <string name="f">708165163640376</string>
+    <string name="t">ycGfJX8DJmdtmF0wZQQQKH_o2Go</string>
+    <string name="inter">No Internet !!!</string>
+    <string name="app">Pe3h94CxeZRyRZjhTwDoCg</string>
+    <string name="oneS">68f7a5d8-38d4-4b2d-839f-b3e55c3f1d3e</string>
+</resources>

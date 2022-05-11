@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900073345838",
+    "project_id": "anubis-princess",
+    "storage_bucket": "anubis-princess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900073345838:android:5ee696af5b01db85d620bf",
+        "android_client_info": {
+          "package_name": "com.rockstar.maxpayn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900073345838-r5q1hf89dbles0kamgd6hco845c81ldn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTvZl0tEHz_0zqs7E9hN_vyh681LX60s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900073345838-r5q1hf89dbles0kamgd6hco845c81ldn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
